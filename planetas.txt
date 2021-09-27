@@ -3,3 +3,4 @@ jupiter
 saturno 
 netuno
 
+sol (nao eh planeta)
