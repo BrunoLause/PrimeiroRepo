@@ -1,5 +1,5 @@
 # star wars repo
 
-![\\starwars.png](nave)
+![nave](\\starwars.png)
 
 repositorio de exemplo do curso de git / github
